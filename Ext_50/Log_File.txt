@@ -1,0 +1,18 @@
+Quality Score Cutoff: 30
+3'-Adaptor Sequence: MADAP
+5'-Adaptor: 4N
+Folder_Name: /Users/colville/Library/CloudStorage/Box-Box/Projects/Sequencing/Data/Sequencing/BCRun8/Ext_50
+Corrected_Name: EXT-50
+Nice_Name: Ext_50
+Read_1_File_Name: EXT-50_S3_L001_R1_001.fastq
+5'-adaptor: : 4N
+N4 combinations: 256
+Number of total reads:: 1542339
+Number of Low Quality reads written out:: 760861 (49.33%)
+Number of High Quality reads written out:: 781478 (50.67%)
+No. of reads with adaptors: 662343
+No. of reads with 'VCG' Length > 0: 282507
+No. of reads in VCG: 198891
+Normalization Factor: : 805.23
+Top 5 Sequences:: [('GTG', 2.78), ('ACGCA', 2.01), ('GT', 1.86), ('CGTGT', 1.85), ('CAC', 1.83)]
+Bottom 5 Sequences:: [('GGTGATGCGTGT', 0.31), ('GCGTGTGGTGAT', 0.37), ('GGTGATGCGTG', 0.4), ('GCGTGTGGTG', 0.43), ('TCA', 0.44)]

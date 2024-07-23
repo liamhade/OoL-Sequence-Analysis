@@ -4,3 +4,6 @@ Lib/
 FastQC/
 Scripts/
 share/
+Ext_50/EXT-50_S3_L001_R1_001.fastq
+Ext_50/high_quality_Ext_50.fastq
+Ext_50/low_quality_Ext_50.fastq

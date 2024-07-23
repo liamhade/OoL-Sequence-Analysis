@@ -1,0 +1,100 @@
+{
+  "Id": "ds.90c4415332d24ee5a78ab2e269f3e35a",
+  "Name": "EXT_50_L001",
+  "DateCreated": "2024-01-08T21:35:43Z",
+  "DateModified": "2024-01-08T21:35:43Z",
+  "AppSession": {
+    "Id": "712321849",
+    "Name": "FASTQ Generation 2024-01-08 20:43:54Z",
+    "Application": {
+      "AppFamilySlug": "illumina.fastq-generation",
+      "AppVersionSlug": "illumina.fastq-generation.1.0.0",
+      "Id": "2313311",
+      "VersionNumber": "1.0.0",
+      "HomepageUri": "",
+      "ShortDescription": "FASTQ Generation using the BCL2FASTQ 2.20 algorithm",
+      "LongDescription": "",
+      "Category": "Native",
+      "UserOwnedBy": {
+        "Id": "",
+        "Name": "",
+        "GravatarUrl": "",
+        "DateLastActive": "",
+        "DateCreated": ""
+      },
+      "Name": "FASTQ Generation",
+      "CompanyName": "Illumina"
+    },
+    "ExecutionStatus": "Complete",
+    "QcStatus": "Undefined",
+    "DeliveryStatus": "None",
+    "UserCreatedBy": {
+      "Id": "40513475",
+      "Name": "Ben Colville",
+      "GravatarUrl": "https://secure.gravatar.com/avatar/8d411ee5f563d9ca07ebc6775f832fa6.jpg?s=20\u0026d=mm\u0026r=PG",
+      "DateLastActive": "",
+      "DateCreated": "2022-12-09T23:23:19.0000000Z"
+    },
+    "StatusSummary": "Application completed successfully",
+    "DateCreated": "2024-01-08T20:43:54Z",
+    "DateModified": "2024-01-08T21:35:46Z",
+    "DateCompleted": "2024-01-08T21:34:04Z",
+    "TotalSize": 2715641154,
+    "RunningDuration": 0,
+    "ComputeStatistics": {
+      "Unit": "",
+      "Amount": 0
+    }
+  },
+  "Project": {
+    "Name": "BC_Run8",
+    "Id": "406992647",
+    "UserOwnedBy": {
+      "Id": "40513475",
+      "Name": "Ben Colville",
+      "GravatarUrl": "https://secure.gravatar.com/avatar/8d411ee5f563d9ca07ebc6775f832fa6.jpg?s=20\u0026d=mm\u0026r=PG",
+      "DateLastActive": "",
+      "DateCreated": "2022-12-09T23:23:19.0000000Z"
+    },
+    "DateCreated": "2024-01-08T20:43:57Z",
+    "DateModified": "2024-01-08T21:35:46Z",
+    "Description": "",
+    "TotalSize": 2169800649
+  },
+  "UserOwnedBy": {
+    "Id": "40513475",
+    "Name": "Ben Colville",
+    "GravatarUrl": "https://secure.gravatar.com/avatar/8d411ee5f563d9ca07ebc6775f832fa6.jpg?s=20\u0026d=mm\u0026r=PG",
+    "DateLastActive": "",
+    "DateCreated": "2022-12-09T23:23:19.0000000Z"
+  },
+  "DataSetType": {
+    "Id": "illumina.fastq.v1.8",
+    "Name": "Illumina Fastq",
+    "ConformsToIds": [
+      "common.files",
+      "common.fastq"
+    ]
+  },
+  "Attributes": {
+    "common_fastq": {
+      "IsPairedEnd": true,
+      "MaxLengthIndexRead1": 6,
+      "MaxLengthRead1": 81,
+      "MaxLengthRead2": 81,
+      "TotalClustersPF": 1542339,
+      "TotalClustersRaw": 1542339,
+      "TotalReadsPF": 3084678,
+      "TotalReadsRaw": 3084678
+    }
+  },
+  "QcStatus": "Undefined",
+  "QcStatusSummary": "No thresholds were evaluated",
+  "UploadStatus": "Completed",
+  "UploadStatusSummary": "",
+  "ValidationStatus": "Passed",
+  "TotalSize": 141003547,
+  "IsFileDataDeleted": false,
+  "IsArchived": false,
+  "V1pre3Id": ""
+}
