@@ -7,3 +7,6 @@ share/
 Ext_50/EXT-50_S3_L001_R1_001.fastq
 Ext_50/high_quality_Ext_50.fastq
 Ext_50/low_quality_Ext_50.fastq
+Notebooks/df_4N_VCG.pkl
+Notebooks/df_4N_reduced.pkl
+Notebooks/df_4N.pkl
